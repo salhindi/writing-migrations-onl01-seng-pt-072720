@@ -1,5 +1,5 @@
 class ChangeDatatypeForBirthdate
   def change_column 
-    :students, :birthdate, :datetime
+    # :students, :birthdate, :datetime
   end
 end
